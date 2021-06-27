@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola, This is Swastik Roy 👋
+
+- 🌱 I’m currently learning React JS.
+- 💬 Ask me about Javascript or any tech related stuff.
+- 📫 How to reach me: Facebook - @swastik.royyy
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am a night owl.
 
 <!--
 **swastikroyyy/swastikroyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
