@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning React JS.
 - 💬 Ask me about Javascript or any tech related stuff.
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a night owl.
 <div align=center>
 
