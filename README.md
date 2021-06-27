@@ -17,7 +17,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swastik_royyy/)](https://twitter.com/swastik_royyy) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/swastik_royyy)](https://www.facebook.com/swastik.royyy) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/swastik.royyy)](https://www.instagram.com/swastik.royyy) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/swastik.royyy)](https://www.instagram.com/swastik.royyy/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swastik.roy1995@gmail.com)](mailto:swastik.roy1995@gmail.com)
 </div>
 
