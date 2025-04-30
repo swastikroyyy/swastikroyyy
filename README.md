@@ -3,7 +3,7 @@
  
  <img src="https://github-readme-stats.vercel.app/api?username=swastikroyyy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-- 🌱 I work in Aptagrim Limited as a Front-End Developer (React JS/ Next JS).
+- 🌱 I work in Enfec Solutions as a Software Engineer.(React JS/ Next JS).
 - 💬 Ask me about Javascript or any tech related stuff.
 - ⚡ Fun fact: I am a night owl.
 <div align=center>
